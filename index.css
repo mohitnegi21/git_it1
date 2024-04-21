@@ -1,0 +1,27 @@
+#clock{
+    text-align: center;
+    margin-top: 20%;
+    /* border: 2px solid; */
+    font-size: 4em;
+}
+
+#setalarma{
+    text-align: center;
+    /* border: 2px solid; */
+    font-size: 1.5em;
+}
+
+#buttons{
+    text-align: center;
+    /* border: 2px solid; */
+    font-size: 1.5em;
+}
+
+/* .divel{
+    display: inline;
+} */
+
+#message{
+    text-align: center;
+    display: inline;
+}
